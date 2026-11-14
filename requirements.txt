@@ -1,0 +1,7 @@
+pandas
+openpyxl
+matplotlib
+psutil
+pytest
+reportlab
+scikit-learn
